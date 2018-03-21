@@ -1,0 +1,20 @@
+S:\CRM-Final\CRM Final\CRM Final\bin\Debug\CRMDataSet.mdf
+S:\CRM-Final\CRM Final\CRM Final\bin\Debug\CRM Final.exe.config
+S:\CRM-Final\CRM Final\CRM Final\bin\Debug\CRM Final.exe
+S:\CRM-Final\CRM Final\CRM Final\bin\Debug\CRM Final.pdb
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM Final.csprojResolveAssemblyReference.cache
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.Invoice.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.InvoiceSearchForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.mainForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.Parts.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.PartSearchForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.Properties.Resources.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.VehicleSearchForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM Final.csproj.GenerateResource.Cache
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM Final.csproj.CoreCompileInputs.cache
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM Final.exe
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM Final.pdb
+S:\CRM-Final\CRM Final\CRM Final\bin\Debug\CRMDataSet_log.ldf
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.CustomerSearchForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.CustomerForm.resources
+S:\CRM-Final\CRM Final\CRM Final\obj\Debug\CRM_Final.VehicleForm.resources

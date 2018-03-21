@@ -1,0 +1,6 @@
+Joe's Automotive Information InvoiceFluid Checkup: $0
+Labor Costs: $40.00
+Parts Used: 4
+Total: $42.40
+Vehicle Information: Impala                                            
+Customer Information: Benni Boi                                         
